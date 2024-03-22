@@ -9,4 +9,5 @@ Image processing is a method used to perform operations on images to enhance the
 5. Image Enhancement: Adjusting the brightness, contrast, and color balance to improve the overall appearance of an image.
 6. Image Compression: Image compression involves reducing the size of an image file without significantly affecting its visual quality, facilitating easier storage and faster transmission. It employs techniques like reducing color space, applying mathematical transformations, and removing redundant data, and can be lossy or lossless.
 7. Object Detection: Object detection is a computer vision technique that identifies and locates objects within an image or video, distinguishing and classifying multiple objects in a single frame. It combines image processing, feature extraction, and machine learning algorithms, such as convolutional neural networks (CNNs), for accurate detection.
-8. 
+
+
